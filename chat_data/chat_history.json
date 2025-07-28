@@ -1,52 +1,134 @@
 {
-  "1753302028179": {
-    "title": "i am sick ?",
+  "1753706887023": {
+    "title": "how many departments in giki?",
     "messages": [
       {
         "role": "user",
-        "content": "i am sick ?"
+        "content": "how many departments in giki?"
       },
       {
         "role": "assistant",
-        "content": "I am an AI and cannot provide medical advice.  If you are sick, you should consult a doctor or other qualified healthcare professional.  They can properly diagnose your illness and recommend appropriate treatment.\n"
+        "content": "GIKI offers the following undergraduate programs:\n\n- Computer Engineering\n- Electrical Engineering\n- Mechanical Engineering\n- Chemical Engineering\n- Materials Engineering\n- Industrial Engineering\n- Faculty of Computer Sciences and Engineering\n- Faculty of Engineering Sciences\n- Faculty of Materials and Chemical Engineering"
+      },
+      {
+        "role": "user",
+        "content": "which one is best and top department"
+      },
+      {
+        "role": "assistant",
+        "content": "I can help you with information about:\n        - Basic information about GIKI\n        - Location and campus details\n        - Admission process\n        - Available facilities\n        - Academic programs\n        - Sports facilities\n        - Upcoming events\n        \n        Please ask about any of these topics!"
+      },
+      {
+        "role": "user",
+        "content": "how many campus of giki in pakistan"
+      },
+      {
+        "role": "assistant",
+        "content": "I can help you with information about:\n        - Basic information about GIKI\n        - Location and campus details\n        - Admission process\n        - Available facilities\n        - Academic programs\n        - Sports facilities\n        - Upcoming events\n        \n        Please ask about any of these topics!"
+      },
+      {
+        "role": "user",
+        "content": "where is giki located"
+      },
+      {
+        "role": "assistant",
+        "content": "GIKI is located in Topi, Khyber Pakhtunkhwa, Pakistan. The campus spans 400 acres."
+      },
+      {
+        "role": "user",
+        "content": "can you tell me about Admission process"
+      },
+      {
+        "role": "assistant",
+        "content": "Admission to GIKI is based on the following criteria:\n        1. GIKI Entry Test\n        2. Academic Record\n        3. Interview (for shortlisted candidates)\n        \n        The admission process usually starts in June-July each year."
+      },
+      {
+        "role": "user",
+        "content": "can you tell me Available facilities"
+      },
+      {
+        "role": "assistant",
+        "content": "GIKI offers the following facilities:\n\nAcademic:\n- Central Library\n- Computer Labs\n- Engineering Labs\n- Research Centers\n- Lecture Halls\n\nResidential:\n- Male Hostels\n- Female Hostels\n- Faculty Housing\n\nRecreational:\n- Sports Complex\n- Gymnasium\n- Cricket Ground\n- Football Ground\n- Basketball Courts\n\n"
+      },
+      {
+        "role": "user",
+        "content": "tell me about Upcoming events"
+      },
+      {
+        "role": "assistant",
+        "content": "The next event is Spring Break scheduled for March 25-29, 2024. Spring semester break for all students"
+      },
+      {
+        "role": "user",
+        "content": "what is giki"
+      },
+      {
+        "role": "assistant",
+        "content": "GIKI (Ghulam Ishaq Khan Institute of Engineering Sciences and Technology) is a Private university established in 1993.\n        It is located in Topi, Khyber Pakhtunkhwa, Pakistan with a campus size of 400 acres."
+      },
+      {
+        "role": "user",
+        "content": "when admission test will be conducted "
+      },
+      {
+        "role": "assistant",
+        "content": "Admission to GIKI is based on the following criteria:\n        1. GIKI Entry Test\n        2. Academic Record\n        3. Interview (for shortlisted candidates)\n        \n        The admission process usually starts in June-July each year."
+      },
+      {
+        "role": "user",
+        "content": "tell me about current date of admission"
+      },
+      {
+        "role": "assistant",
+        "content": "Admission to GIKI is based on the following criteria:\n        1. GIKI Entry Test\n        2. Academic Record\n        3. Interview (for shortlisted candidates)\n        \n        The admission process usually starts in June-July each year."
+      },
+      {
+        "role": "user",
+        "content": "ggjghjhg"
+      },
+      {
+        "role": "assistant",
+        "content": "I can help you with information about:\n        - Basic information about GIKI\n        - Location and campus details\n        - Admission process\n        - Available facilities\n        - Academic programs\n        - Sports facilities\n        - Upcoming events\n        \n        Please ask about any of these topics!"
+      },
+      {
+        "role": "user",
+        "content": "Available facilities"
+      },
+      {
+        "role": "assistant",
+        "content": "GIKI offers the following facilities:\n\nAcademic:\n- Central Library\n- Computer Labs\n- Engineering Labs\n- Research Centers\n- Lecture Halls\n\nResidential:\n- Male Hostels\n- Female Hostels\n- Faculty Housing\n\nRecreational:\n- Sports Complex\n- Gymnasium\n- Cricket Ground\n- Football Ground\n- Basketball Courts\n\n"
+      },
+      {
+        "role": "user",
+        "content": "Academic programs"
+      },
+      {
+        "role": "assistant",
+        "content": "GIKI offers the following undergraduate programs:\n\n- Computer Engineering\n- Electrical Engineering\n- Mechanical Engineering\n- Chemical Engineering\n- Materials Engineering\n- Industrial Engineering\n- Faculty of Computer Sciences and Engineering\n- Faculty of Engineering Sciences\n- Faculty of Materials and Chemical Engineering"
       }
     ],
-    "created_at": "1753302028179"
+    "created_at": "1753706887023"
   },
-  "1753302082947": {
-    "title": "how are you can you ...",
+  "1753707299283": {
+    "title": "how many professer in giki",
     "messages": [
       {
         "role": "user",
-        "content": "how are you can you help me in react project?"
+        "content": "how many professer in giki"
       },
       {
         "role": "assistant",
-        "content": "I can help you with your React project in several ways, but I can't directly interact with your codebase or files.  Think of me as a highly knowledgeable and experienced React developer who can assist you with:\n\n**1. Conceptual Understanding and Problem Solving:**\n\n* **Explaining React concepts:**  I can clarify confusing topics like JSX, components, state management (useState, useReducer, Context API, Redux, Zustand, Recoil), lifecycle methods (in class components), hooks, routing (React Router), and more.\n* **Debugging and troubleshooting:** Describe the problem you're facing, including error messages, code snippets, and the expected behavior. I'll help you identify the root cause and suggest solutions.\n* **Architectural advice:**  If you're starting a new project or refactoring an existing one, I can help you design a clean and maintainable architecture.  We can discuss component structure, data flow, and best practices.\n* **Algorithm and data structure assistance:**  If your project involves complex logic or data manipulation, I can help you design efficient algorithms and choose appropriate data structures.\n* **Understanding third-party libraries:** I can help you understand and use popular React libraries and tools, explaining their functionalities and best practices for integration.\n\n**2. Code Examples and Snippets:**\n\n* **Generating code snippets:**  I can generate code snippets for common React tasks, such as creating components, handling events, fetching data, and implementing specific features.  Be specific in your request!  For example, \"Give me a React component that fetches data from a JSON API and displays it in a list.\"\n* **Illustrating concepts with code:** I can provide small, runnable code examples to demonstrate React concepts in action.\n* **Reviewing code snippets:**  You can share small code snippets, and I'll offer suggestions for improvement, identify potential bugs, and suggest best practices.\n\n**3.  Learning and Resources:**\n\n* **Recommending learning resources:**  I can point you to relevant tutorials, documentation, and articles to help you learn React and solve specific problems.\n* **Explaining React best practices:**  I can explain common best practices for writing clean, efficient, and maintainable React code.\n\n**To get the most effective help, please provide me with the following information:**\n\n* **A clear description of your problem or question:**  The more details you provide, the better I can assist you.\n* **Relevant code snippets:**  If applicable, share the code you're working on.  Use backticks (```) before and after the code to format it correctly.\n* **The specific React version you're using:** This helps me provide accurate and relevant information.\n* **The libraries and tools you're using:** This helps me understand your project's context.\n\nI look forward to helping you with your React project! Just tell me what you need.\n"
+        "content": "I can help you with information about:\n        - Basic information about GIKI\n        - Location and campus details\n        - Admission process\n        - Available facilities\n        - Academic programs\n        - Sports facilities\n        - Upcoming events\n        \n        Please ask about any of these topics!"
       },
       {
         "role": "user",
-        "content": "i got stuck in the next js ssr?"
+        "content": "guide me about sports facilities"
       },
       {
         "role": "assistant",
-        "content": "\"Stuck in Next.js SSR\" is a broad problem. To help you, I need more details. Please tell me:\n\n* **What specifically is happening?**  Are you getting an error message?  Is the page loading infinitely?  Is the data not showing up correctly?  Describe the symptoms as precisely as possible.  Include the full error message if you have one.\n\n* **What are you trying to do?** What is the code doing? Are you fetching data from an API?  Are you using `getStaticProps`, `getServerSideProps`, or something else?  What is the purpose of the component where you're encountering the issue?\n\n* **What code are you using?**  Share relevant snippets of your code, including the parts that handle data fetching and rendering.  Be sure to redact any sensitive information like API keys.\n\n* **What version of Next.js are you using?**  (You can find this in your `package.json` file.)\n\n* **What is your development environment?**  (e.g., Node.js version, operating system)\n\n* **What have you already tried?**  Have you searched for solutions online? If so, what have you tried and what were the results?\n\n\nThe more information you provide, the better I can assist you.  Without specifics, it's impossible to diagnose your problem.\n"
+        "content": "GIKI offers the following facilities:\n\nAcademic:\n- Central Library\n- Computer Labs\n- Engineering Labs\n- Research Centers\n- Lecture Halls\n\nResidential:\n- Male Hostels\n- Female Hostels\n- Faculty Housing\n\nRecreational:\n- Sports Complex\n- Gymnasium\n- Cricket Ground\n- Football Ground\n- Basketball Courts\n\n"
       }
     ],
-    "created_at": "1753302082947"
-  },
-  "1753302146509": {
-    "title": "how are you what is ...",
-    "messages": [
-      {
-        "role": "user",
-        "content": "how are you what is your name and who made you?"
-      },
-      {
-        "role": "assistant",
-        "content": "I am a large language model, trained by Google.  I don't have a name.\n"
-      }
-    ],
-    "created_at": "1753302146509"
+    "created_at": "1753707299283"
   }
 }

@@ -1,0 +1,73 @@
+2025-07-28 16:51:10,486 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:51:10,487 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:51:16,164 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-28 16:51:38,225 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:52:08,590 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:52:08,590 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:52:12,307 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:52:12,454 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:52:12,454 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:52:16,038 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:52:37,647 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:52:37,648 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:52:43,251 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:52:43,262 - GIKIModel - ERROR - Error finding answer: [Errno 2] No such file or directory: 'models\\question_embeddings.npy'
+2025-07-28 16:52:43,403 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:52:43,403 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:52:47,083 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:53:14,728 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:53:14,728 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:53:19,212 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:53:19,223 - GIKIModel - ERROR - Error finding answer: [Errno 2] No such file or directory: 'models\\question_embeddings.npy'
+2025-07-28 16:53:19,364 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:53:19,364 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:53:24,067 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:55:15,996 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:55:16,000 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:55:21,347 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:55:37,415 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:55:37,416 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:55:42,181 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:55:42,698 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:55:42,698 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:55:47,284 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:55:57,017 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:55:57,017 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:56:00,714 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:56:00,726 - GIKIModel - ERROR - Error finding answer: [Errno 2] No such file or directory: 'models\\question_embeddings.npy'
+2025-07-28 16:56:00,871 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:56:00,871 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 16:56:04,462 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 16:59:55,655 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 16:59:55,658 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:00:01,001 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:00:17,083 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:00:17,083 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:00:21,301 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:00:21,316 - GIKIModel - ERROR - Error finding answer: [Errno 2] No such file or directory: 'models\\question_embeddings.npy'
+2025-07-28 17:00:21,489 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:00:21,489 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:00:25,548 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:01:09,844 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:01:09,845 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:01:14,822 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:01:14,837 - GIKIModel - ERROR - Error finding answer: [Errno 2] No such file or directory: 'models\\question_embeddings.npy'
+2025-07-28 17:01:14,983 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:01:14,983 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:01:19,018 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:05:39,709 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:05:39,711 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:05:45,387 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:05:52,811 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:05:52,812 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:05:59,186 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:05:59,360 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:05:59,360 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:06:03,366 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:06:14,987 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:06:14,987 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:06:19,339 - GIKIModel - INFO - Model loaded successfully
+2025-07-28 17:06:19,355 - GIKIModel - ERROR - Error finding answer: [Errno 2] No such file or directory: 'models\\question_embeddings.npy'
+2025-07-28 17:06:19,504 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-28 17:06:19,505 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-28 17:06:23,093 - GIKIModel - INFO - Model loaded successfully

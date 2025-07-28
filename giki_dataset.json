@@ -1,0 +1,162 @@
+{
+    "departments": {
+        "FME": {
+            "name": "Faculty of Mechanical Engineering",
+            "established": "1993",
+            "programs": ["Mechanical Engineering", "Industrial Engineering"],
+            "faculty_count": 25,
+            "research_areas": [
+                "Thermal Sciences",
+                "Mechanics and Design",
+                "Manufacturing and Materials",
+                "Industrial and Manufacturing Engineering"
+            ],
+            "labs": [
+                "Thermodynamics Lab",
+                "Fluid Mechanics Lab",
+                "Mechanics of Materials Lab",
+                "Manufacturing Lab",
+                "CAD/CAM Lab"
+            ]
+        },
+        "FEE": {
+            "name": "Faculty of Electronic Engineering",
+            "established": "1993",
+            "programs": ["Electrical Engineering", "Electronics Engineering"],
+            "faculty_count": 30,
+            "research_areas": [
+                "Power Systems",
+                "Control Systems",
+                "Communications",
+                "Microelectronics"
+            ],
+            "labs": [
+                "Electronics Lab",
+                "Power Systems Lab",
+                "Control Systems Lab",
+                "Communications Lab"
+            ]
+        },
+        "FCSE": {
+            "name": "Faculty of Computer Science and Engineering",
+            "established": "1995",
+            "programs": ["Computer Science", "Computer Engineering", "Software Engineering"],
+            "faculty_count": 28,
+            "research_areas": [
+                "Artificial Intelligence",
+                "Data Science",
+                "Computer Networks",
+                "Software Engineering"
+            ],
+            "labs": [
+                "Computer Networks Lab",
+                "Digital Systems Lab",
+                "Software Engineering Lab",
+                "AI and Machine Learning Lab"
+            ]
+        },
+        "FMC": {
+            "name": "Faculty of Materials and Chemical Engineering",
+            "established": "1994",
+            "programs": ["Materials Engineering", "Chemical Engineering"],
+            "faculty_count": 22,
+            "research_areas": [
+                "Materials Science",
+                "Chemical Process Engineering",
+                "Nanotechnology",
+                "Environmental Engineering"
+            ],
+            "labs": [
+                "Materials Testing Lab",
+                "Chemical Process Lab",
+                "Environmental Engineering Lab",
+                "Nanotechnology Lab"
+            ]
+        },
+        "FES": {
+            "name": "Faculty of Engineering Sciences",
+            "established": "1993",
+            "programs": ["Engineering Sciences", "Applied Physics"],
+            "faculty_count": 20,
+            "research_areas": [
+                "Applied Mathematics",
+                "Physics",
+                "Basic Sciences",
+                "Engineering Mathematics"
+            ],
+            "labs": [
+                "Physics Lab",
+                "Chemistry Lab",
+                "Computing Lab"
+            ]
+        }
+    },
+    "research_centers": [
+        {
+            "name": "Center for Advanced Studies in Engineering",
+            "focus_areas": [
+                "Advanced Materials",
+                "Energy Systems",
+                "Environmental Engineering",
+                "Information Technology"
+            ]
+        },
+        {
+            "name": "Technology Innovation Center",
+            "focus_areas": [
+                "Robotics",
+                "Artificial Intelligence",
+                "Internet of Things",
+                "Smart Systems"
+            ]
+        }
+    ],
+    "student_life": {
+        "societies": [
+            {
+                "name": "GIKI Computing Society",
+                "type": "Technical",
+                "activities": ["Workshops", "Competitions", "Seminars"]
+            },
+            {
+                "name": "GIKI Literary Society",
+                "type": "Cultural",
+                "activities": ["Debates", "Poetry", "Publications"]
+            },
+            {
+                "name": "GIKI Sports Society",
+                "type": "Sports",
+                "activities": ["Sports Competitions", "Fitness Programs"]
+            }
+        ],
+        "facilities": {
+            "hostels": [
+                {"name": "Hostel 1", "type": "Male", "capacity": 300},
+                {"name": "Hostel 2", "type": "Male", "capacity": 300},
+                {"name": "Hostel 3", "type": "Male", "capacity": 300},
+                {"name": "Girls Hostel", "type": "Female", "capacity": 200}
+            ],
+            "cafeterias": [
+                "Main Cafeteria",
+                "Faculty Club",
+                "Student Center"
+            ]
+        }
+    },
+    "admissions": {
+        "entry_test": {
+            "subjects": ["Mathematics", "Physics", "English"],
+            "total_marks": 800,
+            "passing_criteria": "60% minimum"
+        },
+        "annual_intake": {
+            "undergraduate": 600,
+            "graduate": 150
+        },
+        "requirements": {
+            "academic": "At least 60% marks in FSc or equivalent",
+            "test": "Must pass GIKI Entry Test",
+            "interview": "Required for shortlisted candidates"
+        }
+    }
+} 
